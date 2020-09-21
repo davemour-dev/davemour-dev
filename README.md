@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+```javascript
+_["davemour-dev"] = {
+    pronouns: "he" | "him",
+    code: [Javascript, Typescript, PHP, Python, HTML, CSS, SCSS, PostgreSQL, MongoDB],
+    tools: [NodeJS, Express, React, Next, Angular, Laravel]
+};
+```
+
 <!--
 **davemour-dev/davemour-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+TODO: continue defining my profile
 -->
